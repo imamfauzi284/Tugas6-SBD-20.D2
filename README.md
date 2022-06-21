@@ -12,6 +12,7 @@
 ![tugas6-2(1)](https://user-images.githubusercontent.com/106543547/174813583-c0782485-a6e7-4065-afa4-990f97501ab0.PNG)
 
 Proses Recovery.
+
 Data yang telah di-backup dapat dikembalikan kapan saja dan Syntax yang digunakan di MySQL adalah LOAD DATA INFILE ‘Nama_backup_file’ INTO TABLE nama_table ;
 ![tugas6-3](https://user-images.githubusercontent.com/106543547/174817857-23fd78de-50d7-416f-aed1-a11fc91800cb.PNG)
 ## 3.Lakukan proses backup dan recovery dengan sqldump dari database tugas seblumnya !
